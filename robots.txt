@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://topics.bounceme.net/sitemap.xml
+Sitemap: https://topics.bounceme.net/sitemap.html
